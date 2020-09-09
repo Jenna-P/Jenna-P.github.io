@@ -16,5 +16,5 @@ Jeg glæder mig til at komme rigtigt igang og ser frem til nogle sjove år her p
 
 <p style="text-align:center;">
 ### Vi tre piger 
-<img src="IMG_3868.jpeg" width="80" height="100" align="center">
+<img src="IMG_3868.jpeg" width="200" height="250" align="center">
 </p>
