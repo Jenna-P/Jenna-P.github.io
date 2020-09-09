@@ -15,3 +15,8 @@ Jeg har altid elsket matematik og logik, og derfor tror jeg at det passer godt t
 Jeg glæder mig til at komme rigtigt igang og ser frem til nogle sjove år her på skolen.
 
 
+
+#### Vi tre piger :sparkling_heart::sparkling_heart:
+<p style="text-align:center;">
+<img src="Female-Developer-Vector.jpg" width="50" height="50" align="center">
+</p>
