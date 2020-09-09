@@ -1,6 +1,6 @@
 theme: jekyll-theme-dinky
 # Site settings
-name: Jenna Petersen
+title: Jenna Petersen
 description: "This is my first trial github page"
 url: "http://Jenna-P.github.io"
 
@@ -9,15 +9,5 @@ facebook_username: Jenna Bokyung S
 email: jenn2464@edu.easj.dk
 
 
-avatar: yes
-#avatar_img_path: "imgs/avatar.jpg""
-# You can link to your GitHub image. That way it will get updated
-# automatically whenever you change your GitHub profile picture
-avatar_img_path: "imgs/IMG_3868.jpeg"
-
-
-front_img: yes
-front_img_path: "imgs/background.png"
-#front_img_path: "https://external.url/image.jpg"
 
 
