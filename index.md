@@ -18,5 +18,5 @@ Jeg glæder mig til at komme rigtigt igang og ser frem til nogle sjove år her p
 
 #### Vi tre piger :sparkling_heart::sparkling_heart:
 <p style="text-align:center;">
-<img src="IMG_3868.jpeg" width="80" height="120" align="center">
+<img src="IMG_3868.jpeg" width="80" height="100" align="center">
 </p>
