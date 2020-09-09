@@ -16,7 +16,8 @@ Jeg glæder mig til at komme rigtigt igang og ser frem til nogle sjove år her p
 
 
 <p style="text-align:center;">
-- Mine Piger 
+
+- ##### Mine Piger 
 <p style="text-align:center;">
 <img src="IMG_3730.jpeg" width="200" height="250" align="center">
 </p>
