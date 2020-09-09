@@ -18,5 +18,5 @@ Jeg glæder mig til at komme rigtigt igang og ser frem til nogle sjove år her p
 
 #### Vi tre piger :sparkling_heart::sparkling_heart:
 <p style="text-align:center;">
-<img src="Female-Developer-Vector.jpg" width="50" height="50" align="center">
+<img src="IMG_3868.jpeg" width="70" height="70" align="center">
 </p>
