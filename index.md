@@ -13,8 +13,7 @@ Jeg er født og opvokset i Sydkorea men jeg har boet i Danmark siden 2013. Jeg e
 Jeg har altid elsket matematik og logik, og derfor tror jeg at det passer godt til mig med uddannelse som software udvikler. 
 
 Jeg glæder mig til at komme rigtigt igang og ser frem til nogle sjove år her på skolen.
-
-- ##### Mine Piger 
+<p style="text-align:center;"> Mine Piger 
 <p style="text-align:center;"> 
 <img src="IMG_3730.jpeg" width="200" height="250" align="center">
 </p>
