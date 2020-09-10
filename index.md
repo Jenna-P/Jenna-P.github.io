@@ -1,3 +1,7 @@
+<p style="text-align:center;"> 
+<img src="ILyserød Elegant Makeup Facebook Cover.png" width="1000" height="200" align="center">
+</p>
+
 ## Welcome Everyone!!
 
 > Her vil jeg over de næste år igennem hele datamatikerstudiet lægge al min kode op. Det bliver spændende at se hvor meget kode det bliver til og at se hvordan mine "coding skills" udvikler sig over årene.
