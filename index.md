@@ -21,5 +21,5 @@ Jeg glæder mig til at komme rigtigt igang og ser frem til nogle sjove år her p
 
 
 <p style="text-align:center;"> 
-<img src="IMG-124.png" width="900" height="100" align="center">
+<img src="IMG_124.png" width="600" height="100" align="center">
 </p>
