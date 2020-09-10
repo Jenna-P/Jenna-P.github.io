@@ -18,9 +18,8 @@ Jeg har altid elsket matematik og logik, og derfor tror jeg at det passer godt t
 
 Jeg glæder mig til at komme rigtigt igang og ser frem til nogle sjove år her på skolen.
 
-<p style="text-align:center;"> 
 
-- Mine Piger 
+
 <p style="text-align:center;"> 
-<img src="IMG_3730.jpeg" width="200" height="250" align="center">
+<img src="IMG-124.png" width="900" height="100" align="center">
 </p>
