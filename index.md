@@ -1,5 +1,5 @@
 <p style="text-align:center;"> 
-<img src="ILyserød Elegant Makeup Facebook Cover.png" width="1000" height="200" align="center">
+<img src="ILyserød Elegant Makeup Facebook Cover.png" width="900" height="150" align="center">
 </p>
 
 ## Welcome Everyone!!
